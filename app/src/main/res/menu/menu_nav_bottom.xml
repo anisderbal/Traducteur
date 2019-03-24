@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_nav_fav"
+        android:icon="@drawable/ic_starr" />
+    <item
+        android:id="@+id/btn_nav_microphone"
+        android:icon="@android:drawable/ic_btn_speak_now" />
+    <item  android:id="@+id/btn_nav_camera"
+        android:icon="@drawable/ic_photo_camera"
+        />
+
+</menu>
